@@ -1,0 +1,13 @@
+console.log("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$");
+console.log("$$                                             $$");
+console.log("$$                 REPORT CARD                 $$");
+console.log("$$    _____________________________________   $$");
+console.log("$$                                             $$");
+console.log("$$"+"     "+"Name : Shreekant totla"+"                  "+"$$");
+console.log("$$"+"     "+"School : SRCOEM"+"                         "+"$$");
+console.log("$$"+"     "+"Grade : A+"+"                              "+"$$");
+console.log("$$"+"     "+"Section : A"+"                             "+"$$");
+console.log("$$"+"     "+"Roll No : 03"+"                            "+"$$");
+console.log("$$"+"     "+"Marks of 3 subjects : 250"+"               "+"$$");
+console.log("$$                                             $$");
+console.log("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$");
